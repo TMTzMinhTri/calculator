@@ -1,0 +1,10 @@
+C:\winform\bai 1\calculator\calculator\bin\Debug\calculator.exe.config
+C:\winform\bai 1\calculator\calculator\bin\Debug\calculator.exe
+C:\winform\bai 1\calculator\calculator\bin\Debug\calculator.pdb
+C:\winform\bai 1\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\winform\bai 1\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\winform\bai 1\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\winform\bai 1\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\winform\bai 1\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\winform\bai 1\calculator\calculator\obj\Debug\calculator.exe
+C:\winform\bai 1\calculator\calculator\obj\Debug\calculator.pdb
